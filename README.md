@@ -4,7 +4,7 @@
 Welcome to the Memory Game! This project is a classic memory matching game where players flip over cards to find pairs. 
 The game is built using JavaScript, HTML, and CSS. The objective of the game is to match all the pairs of cards in the least number of moves.
 
-## Demo Link : ![Click Here!!!](https://memorygamestask1.netlify.app/)
+## Demo Link : [Click Here!!!](https://memorygamestask1.netlify.app/)
 
 ## Features
 - **Responsive Design:** The game layout adjusts to different screen sizes.
